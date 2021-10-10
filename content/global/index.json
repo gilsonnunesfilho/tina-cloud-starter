@@ -1,9 +1,9 @@
 {
   "header": {
     "icon": {
-      "color": "orange",
+      "color": "yellow",
       "style": "float",
-      "name": "tina"
+      "name": "coffee"
     },
     "color": "default",
     "nav": [
@@ -22,7 +22,7 @@
     ]
   },
   "footer": {
-    "color": "default",
+    "color": "primary",
     "social": {
       "facebook": "/",
       "twitter": "/",
